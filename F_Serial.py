@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 19 13:08:11 2023
 
-@author: jgall
+@author: Sebastián Alzate
 """
 
 from threading import Thread
